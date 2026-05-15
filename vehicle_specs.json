@@ -23,6 +23,7 @@
     "reusable": true,
     "active": true,
     "manufacturer": "SpaceX",
+    "crew_capacity": 7,
     "notes": "Workhorse rocket. First stage is reusable - lands on a droneship or back at the launch site."
   },
   "Falcon Heavy": {
